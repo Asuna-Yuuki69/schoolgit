@@ -1,0 +1,4 @@
+- urcuje odolnost paliva proti samovznice pouze diky tlaku
+- isooktan - 100
+- heptan 0 
+- 
