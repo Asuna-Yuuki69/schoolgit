@@ -1,0 +1,21 @@
+- r. 276 posledni rimsky cisar
+- migrace Germanu do rima
+- prichod Hunu
+- vznik barbarskych risi
+- doba temna po zaniku anticke civilizace
+- cirkev - nositele rane vzdelanosti
+- krestanstni ma **dulezitou roli**
+## Stredovek
+- predel mezi historickymi obdobimi se v ruznych pramenech lysi
+- zacatek stredoveku je nejcasteji bran jako **zanik zapadorimske rise roku 476**
+- jeho konec se bere jako **objeveni Ameriky - 1492/dobyti Istnbulu 1453** <span style="color:rgb(255, 0, 0)">(v nasich dejinach je predelem nastuo Habsburku roku 1426)</span> 
+- ### deleni stredoveku
+	- rany stredovek - 476 - 11. stol.
+	- vrcholny stredovek - 12. - 14. stol
+	- pozdni stredovek - prechod k novoveku
+## Vlivy na utvareni stredoveke Evropy
+- vliv zaniklych antickych civilizaci - **kultura, umeni, vzdelanost**
+- **krestanstvi**
+- zpusob zivota - **lenni vernost**
+- spolecenske rozvrstveni **slechta, svobodni a nesvobodni obyvatele**
+- privilegovane skupiny jsou **slechta** a **cirkev**

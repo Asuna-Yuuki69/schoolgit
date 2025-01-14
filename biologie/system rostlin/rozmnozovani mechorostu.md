@@ -1,0 +1,5 @@
+- spora se roznese vetrem a vyklici -> **prvoklicek** - protonema ->mechorost[^gametofyt] 
+- prokel vyklici, odumre a vznikne mechova rostlinka[^1], na ktere se vytvari pohlavni utvary
+- pelatky (samec) - spermatozoidy
+- zarodecniky (samice) - vajicka
+- splynuti vajicka a spermatozoidu -> zygota -> sporofyt

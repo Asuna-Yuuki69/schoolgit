@@ -1,0 +1,7 @@
+- slovni zasoba je dynamicka a meni se s postupem casu (dnes - sigma, skibidi, fein etc.)
+- ### typy slov ciziho puvodu 
+	- **zdomacnela** - byla prejata z jineho jazyka, ale po hlaskove a tvarove strane se prizpusobila cestine
+	- **cizi** - prejata slova, ktera si ale ponechala puvodni raz (napr tramvaj, charakter, televizor anoda)
+	- **nespisovna** - kseft, flaska, kumst, kuncaft
+	- **kalk** - doslovne prelozena slova - skyscraper - mrakodrap
+	- **minikalk** - polovina ceska polovina cizi (autolak, radioprijimac)

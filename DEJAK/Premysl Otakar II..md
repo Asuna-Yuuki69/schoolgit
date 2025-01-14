@@ -1,0 +1,3 @@
+- jeden z nejvetsich Premyslovcu
+- syn Vaclava I a Kunhuty Statutske
+- kral zelesn

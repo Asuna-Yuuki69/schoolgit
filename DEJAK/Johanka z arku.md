@@ -1,0 +1,41 @@
+- Anglie a Francie ve stolete valce
+	- Angloe vyhrama, dobyla celou severni Francii
+	- zbyvalo dobyt Orleans coz by znamenalo pad Francie
+- #### zivot
+	- narozena 6.1. 1412
+	- rodice Jacques d'Arc a Isabelle Romee
+	- pochazela ze selske rodiny
+	- nebyla vzdelana
+	- v detstvi byli napadeni 
+	- ve 13 lletech zacala schyzovat hlasy a mela videni
+	- archandel Michael, Katerina Alexandrijska a svata Marketa Antiochijska
+	- nabadali ji, aby zachranila Francii, vyhnala brity a zajistila korunovaci Karla 7.
+	- Merlinovo proroctvi "Francii prohraje zla zena a nazpet ji ziska cista panna"
+- #### zacatky v politice 
+	- 1428 - presvedcila stryce, aby ji umoznil setkani s vojenskym kapitanem Robertem ve Vaucouleurs
+	- Robert se ji vysmal bcs ji neveril, ale po zpravach o vojenskych ztratach a Johanine neustupnosti svolol k tomu, aby ji poslali ke dvoru Karla do Chinonu
+	- Johanka se prevlekla do muzeskych satu a dostala se pres nepratelske uzemi
+	- v Chinonu se Karel schoval v davu, ale Johana ho odhalila
+	- z Chinonu poslana na prezkouseni do Poitiers
+	- cirkevni proces trval 3 tydny
+	- dostala brneni, kone a korouhev s nabozenskymi motivy
+- #### vitezstvi u Orleans a uspechy
+	- Johanka se stala moralnim vudcem vojaku
+	- nebojovala, ale podporovala svy vojaky
+	- 19. dubna 1429 osvobozovani Orleans
+	- 7. kvetna rozhodujici bitva u pevnosti  Tourreles
+		- dostala hit sipem do ramene
+	- 8. kvetna odstoupeni Britu z okoli Orleans
+	- v Orleans ji brali jako spasitelku (prezdivali ji Panna Orleanska)
+- #### korunovace Karla VII.
+	- Johanka vedla armadu v bitve u Patay
+	- doprovodila Karla do mesta Remes
+- #### zajeti a soud
+	- 1430 behem obrany Compiegne byla zajata Burgundany
+		- prodali ji anglicanum za velky vykupny
+	- uveznena v Rouenu a postavena pred cirkevni soud vedeny biskupem Pierrem Cachonem
+	- soud trval nekolik mesicu a byl docela zmanipulovany
+	- obvinena z kacirstvi, carodejnictvi a noseni muzskych satu
+	- Johanka odmitla odvolat sve ciny
+	- nakonec uznana vinnou a odsouzena k upaleni
+	- **30. kvetna 1432 Johanka upalena v 19 letech**

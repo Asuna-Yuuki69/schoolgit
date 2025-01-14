@@ -1,0 +1,15 @@
+- veda o spolecnosti lidi
+- **socializace** -> proces pri kterem se jedinec zaclenuje do spolecnosti
+## Vlastni vznik sociologie
+- **A. Compte**
+	- positivismus -> zabyva se jevy a fakty, uvahy a dotazy jsou zbytecne
+	- **faze**
+		- 1. faze - teologicka - vira v absolutni princip
+		- 2. faze - metafyzicka - misto bohu lidstvo uznava abstraktvni jevy (prirodu napr.)
+		- 3. faze - pozitivni - lide se vzdavaji po podstate
+- **Emile Durkheim** - franvcouzsky sociolog
+	- vychazi z positivismu
+		- sociologicke paradigma objektivisticke
+	- predmet sociologie
+		- socialni fakta materialni - skutecne a soucast vnejsiho sveta (architektura, zakony - socialni vedomi)
+		- socialni fakta nematerialni - abstraktni (normy, hodnoty ci obecne kultura)

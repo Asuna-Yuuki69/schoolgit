@@ -1,0 +1,5 @@
+- odehravaji se na pouti k hrobu
+- 29 poutniku
+- ramcova kompozice - kazdy poutnik vypravi v jinem zanru
+- ruzne socialni skupiny
+- nebyly dokoncene because autor chcipl

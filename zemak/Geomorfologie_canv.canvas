@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"3f5d9c0a3bbc9b22","type":"file","file":"zemak/kamenne slunce.md","x":200,"y":-140,"width":400,"height":260,"color":"5"},
+		{"id":"a8b126596f142c11","type":"file","file":"zemak/kamenne more.md","x":200,"y":600,"width":400,"height":400},
+		{"id":"62a03eba849ec21a","type":"file","file":"zemak/mrazovy srub.md","x":200,"y":160,"width":400,"height":400,"color":"5"},
+		{"id":"4456c91e65c8866e","type":"file","file":"zemak/pisecna kosa.md","x":200,"y":-600,"width":400,"height":400},
+		{"id":"868be66dc2264be4","type":"file","file":"zemak/pisecna plaz.md","x":200,"y":-1040,"width":400,"height":400},
+		{"id":"2429f12291246780","type":"file","file":"zemak/cliff.md","x":200,"y":-1480,"width":400,"height":400},
+		{"id":"39be441606606de0","type":"file","file":"zemak/geomorfologie.md","x":-1380,"y":-450,"width":840,"height":1140}
+	],
+	"edges":[
+		{"id":"7dfce57ca59650f9","fromNode":"39be441606606de0","fromSide":"right","toNode":"2429f12291246780","toSide":"left"},
+		{"id":"c62c40a45543d7b3","fromNode":"39be441606606de0","fromSide":"right","toNode":"868be66dc2264be4","toSide":"left"},
+		{"id":"02557f1d408fcca0","fromNode":"39be441606606de0","fromSide":"right","toNode":"4456c91e65c8866e","toSide":"left"},
+		{"id":"fa7fdd0134e32e14","fromNode":"39be441606606de0","fromSide":"right","toNode":"3f5d9c0a3bbc9b22","toSide":"left"},
+		{"id":"9cd3d3e275af8dd8","fromNode":"39be441606606de0","fromSide":"right","toNode":"62a03eba849ec21a","toSide":"left"},
+		{"id":"c95d49b3ce841684","fromNode":"39be441606606de0","fromSide":"right","toNode":"a8b126596f142c11","toSide":"left"}
+	]
+}

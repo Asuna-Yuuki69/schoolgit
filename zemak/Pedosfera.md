@@ -1,0 +1,9 @@
+- pedologie - vede o pude
+- hluboka asi 1.5m
+- nekde nemusi byt vubec a aby se dalo rict, ze nejaka zemina je puda, musi v ni byt nejaky zivot
+- ![[IMG_8454 3.heic]] 
+- pudni vzduch - $Co_{2}$ vic nez v normalnim vzduchu
+- **edafon** - biosfera
+	- fitoedafon (mikroveci - rasa, makroveci koren)
+	- zooedafon (mikroveci - maly zviratka jako bakterie atd?, makroveci - krtecek)
+- bonita pudy - hodnota pudyx

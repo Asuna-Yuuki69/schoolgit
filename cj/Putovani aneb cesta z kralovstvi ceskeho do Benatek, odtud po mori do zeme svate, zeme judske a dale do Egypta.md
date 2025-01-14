@@ -1,0 +1,4 @@
+- Napsal Krystof Harant z Polzic a Bezdruzic
+- je to o Krystofovu putovani do egypta
+- prepadli ho arabove
+- o namluvach zen 

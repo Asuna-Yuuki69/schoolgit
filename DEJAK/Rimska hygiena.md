@@ -1,0 +1,3 @@
+- dobre zvladnuta kanalizace Kloaka Maxima
+- spolecne zachody
+- meli basic vodovody a aquadukty

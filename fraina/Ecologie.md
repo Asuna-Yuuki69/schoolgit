@@ -1,0 +1,65 @@
+- fermer le robinet
+- economiser
+- trier (les dechets)
+- proteger
+- recycler
+- sauver
+- planter
+- jardiner
+- bruler
+- eteindre (la lumiere)
+- nettoyer
+	- ramasser(sbirat, ale ne jako sbirku) (les dechets)
+- acheter bio 
+	- reutiliser les choses
+- reduire les emissions
+	- <span style="color:rgb(255, 0, 0)">baisser</span> x <span style="color:rgb(0, 176, 80)">augumenter</span> les emissions
+### Materiaux recyclables
+- papier
+- les types de plastique qui sont recyclables
+- verre
+- porcelain
+- le metal (les metaux)
+- #### bordel z plastu
+	- l'emballage plastique
+	- le pot
+	- le gobelet
+	- le plastique
+	- le couvert plastique
+	- les joujous
+	- la paille 
+	- la brique de lait
+	- la bouteille plastique
+- #### bordel z papiru
+	- la journal
+	- le cahier
+	- le carton
+	- le livre
+	- le sachet
+	- le papillon
+	- l'enveloppe
+	- la rouleau de papier de toilette
+	- l'emballage du papier
+	- un sac papier
+- #### bordel ze skla
+	- le verre
+	- le vase
+	- <span style="color:rgb(255, 0, 0)">la fenetre</span> (cely okno)
+	- la bouteille
+	- la vitre - okenni tabule
+	- le pot de confiture - petit zavarovacka
+	- la boule de crystal
+	- la boule de noel
+	- le verriere
+	- le lustre
+- #### bioodpad
+	- le compost
+	- la peau
+	- le foin
+	- l'ecorce
+	- la terre
+	- les sachets de the
+	- le marre de cafe
+	- le mauvais herbe
+	- la coquille d'oeuf
+	- le trognon

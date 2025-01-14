@@ -1,0 +1,45 @@
+- nejvyznamnejsi rusky romanticky spisovatel ( bran jako realista)
+- pochazi ze stare slechticke rodiny
+- jeho pradeda byl **negr** 0 general Rude armady - Abram Petrovic Hannibal
+- Petr veliky byl nevlastni prapradeda Puskin
+- velice vyrecny autor
+- velky vliv na nej mela babicka a vychovatelka
+- prozapadni vychova - psal proti carovi a sla po nem carska policie
+- misto sibire ho poslali na kavkaz
+	- z kavkazu ho vratili do Odesy, kde delal svemu hostovi do manzelky
+	- pak dostal deal od Cara ze bude fresh a nebude degradovat system a najde si manzelku vymenou za to, ze bude moct chill zit v Moskve a Petrohrade
+	- potom tam v klidu zil
+- nakonec umrel v duelu s francouzskym emigrantem Dantem
+- od cara dostal odpusteni ze se ucastnil duelu a umrel amimir
+### Dila
+- Jizni Poemy
+	- 3 lyricko-epicke skladby inspirovane jihem a divokou jizni prirodou - podporuji osobni a obcanskou svobodu
+- Kavkazsky zajatec
+	- hlavni hrdina je vojak, ktery byl soucasti krazdeze kavkazskych oblasti
+	- do hlavniho hrdiny se zamiluje cera mistniho nacelnika, ta kde byl vojak zajat
+	- hlavni hrdinka je odmitnuta a ackoliv nestastna tak pomuze vojakovi k uteku od muslimu a spacha sebevrazdu
+- Cikani
+	- hlanvim hrdinou Moskevsky slechtic Aleko, ktery se dostane do skupiny kocovnych Ciganu
+	- ciganka uz ma typka a Aleko zabije aj ciganku a jeijho frajera peak konci dilo
+- Bachcisarajska fontana
+	- odehrava se na Krymu
+	- tragicky pribeh Chana Gireje
+	- mel na svem palaci v haremu polskou princeznu, do ktere se zamiloval a nadrzoval ji pred ostatnima zenama, ktere mega zarlily a polskou princeznu zavrazdily
+- Even Onegin
+	- jedno z nejprekladanejsich svetovych del 
+	- odehrava se v pocatku 19. stoleti na ruskem venkove
+	- 8 hlav, kazda uvedena citaci slavnych myslytelu
+	- **oneginska strofa** - 14 8-9 slabicnych versu s pravidelnym rymem
+	- autor casto vstupuje do deje jako pozorovatel a promlouva ke ctenari
+	- postavy se vyviji a jsou voleny tak , ze vytvari kontrasty na sebe navzajem
+	- dlouhe dialogy a popisy krajiny
+	- **Evzen Onegin**
+		- slechtic s majetkem a vzdelanim, ktery se ale nicemu nevenuje takze je to zbytecny clovek
+		- drive byl lvem salonu, ale ted je liny a nepracuje. pouze lezi, je neprijemny a pohrda lidmi. 
+		- po smrti otce dostane po strycovi dum na venkove kam se nastehuje, ale pozdeji ho zacne nudit i priroda
+		- senami se s idealistickym snilkem a basnikem Vladimirem Lenskym, ktery jej uvede do domu vdovy Larinove a seznami jej se sestrami Olgou(prazdna a povrchni) a Tatanou(romanticka a plna citu)
+		- Tatana se do Onegine zamiluje a pise mu extremne romanticky dopis (povazovan za nejvyznamnejsi dopis v dejinach literatury)
+			- Onegin ji rekne, ze je nonchalant a nedokazal by byt verny jedne zene a odmitne ji
+			- Onegin se ji zacne vyhybat, ale po nejake dobe se sejdou na venkove pri oslave Tanina svatku
+		- rozhodne se dat fight s Lenskym o jeho zenu. Lensky to hrotil, ale Onegin byl upe v pohode
+		- onegin mu dal 1tap pistoli a pak si uvedomil, ze zabil svyho chabra a dost ho to mrzelo -> potom leavnul pryc do Moskvy
