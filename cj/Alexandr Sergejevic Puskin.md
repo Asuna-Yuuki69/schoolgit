@@ -1,4 +1,4 @@
-- nejvyznamnejsi rusky romanticky spisovatel ( bran jako realista)
+	x- nejvyznamnejsi rusky romanticky spisovatel ( bran jako realista)
 - pochazi ze stare slechticke rodiny
 - jeho pradeda byl **negr** 0 general Rude armady - Abram Petrovic Hannibal
 - Petr veliky byl nevlastni prapradeda Puskin
@@ -12,20 +12,20 @@
 - nakonec umrel v duelu s francouzskym emigrantem Dantem
 - od cara dostal odpusteni ze se ucastnil duelu a umrel amimir
 ### Dila
-- Jizni Poemy
+- #### Jizni Poemy
 	- 3 lyricko-epicke skladby inspirovane jihem a divokou jizni prirodou - podporuji osobni a obcanskou svobodu
-- Kavkazsky zajatec
+- #### Kavkazsky zajatec
 	- hlavni hrdina je vojak, ktery byl soucasti krazdeze kavkazskych oblasti
 	- do hlavniho hrdiny se zamiluje cera mistniho nacelnika, ta kde byl vojak zajat
 	- hlavni hrdinka je odmitnuta a ackoliv nestastna tak pomuze vojakovi k uteku od muslimu a spacha sebevrazdu
-- Cikani
+- #### Cikani
 	- hlanvim hrdinou Moskevsky slechtic Aleko, ktery se dostane do skupiny kocovnych Ciganu
 	- ciganka uz ma typka a Aleko zabije aj ciganku a jeijho frajera peak konci dilo
-- Bachcisarajska fontana
+- #### Bachcisarajska fontana
 	- odehrava se na Krymu
 	- tragicky pribeh Chana Gireje
 	- mel na svem palaci v haremu polskou princeznu, do ktere se zamiloval a nadrzoval ji pred ostatnima zenama, ktere mega zarlily a polskou princeznu zavrazdily
-- Even Onegin
+- #### Even Onegin
 	- jedno z nejprekladanejsich svetovych del 
 	- odehrava se v pocatku 19. stoleti na ruskem venkove
 	- 8 hlav, kazda uvedena citaci slavnych myslytelu
@@ -43,3 +43,12 @@
 			- Onegin se ji zacne vyhybat, ale po nejake dobe se sejdou na venkove pri oslave Tanina svatku
 		- rozhodne se dat fight s Lenskym o jeho zenu. Lensky to hrotil, ale Onegin byl upe v pohode
 		- onegin mu dal 1tap pistoli a pak si uvedomil, ze zabil svyho chabra a dost ho to mrzelo -> potom leavnul pryc do Moskvy
+- #### Kapitanska dcerka
+	- pribeh dvou mladych lidi **Petr** **Masa**
+	- Pugacovovo velke povstani
+	- realny obraz o lidech a o tom, co se behem toho delo
+	- vytvari take velice vernou podobu Pugacova v tom pribehu
+- #### Pikova dama
+	- s prvky fantazie
+	- hodne gamby 
+	- nadprirozene sily
