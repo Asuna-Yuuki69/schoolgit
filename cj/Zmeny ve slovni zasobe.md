@@ -22,4 +22,9 @@
 		- univerbizace (ze slouslovi se stane jedno) -> lanovka, osobak, panelak
 	- spodni pradlo
 #### Zkracovani
-- zkratky inicialove - verejne bezpecnost VB, KGB etc
+- zkratky inicialove - verejne bezpecnost VB, KGB etc (neohybaji se)
+- zkratkova slova - setuza (severoceske tukove zavody) (daji se ohybat)
+#### Slozeniny
+- kuropění - kdyz rano kur peje :skull:
+- neaji se rozlozit na volne spojeni slov
+	- dejepis, novovek, starovek, zemepis
