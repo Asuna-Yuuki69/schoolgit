@@ -4,7 +4,7 @@
 	- B - horizont obohaceny
 	- C - horizont - zvetrale podlozi
 	- pod tim je matecna hornina (litosfera)
-### Teresrticke pudy
+### Terestricke pudy
 - **cernozem**
 	- nejlepsi pro rust plodin
 	- nejurodnejsi
@@ -16,3 +16,12 @@
 - **nivni puda**
 - **luzni puda**
 - **raselinnna puda** - na horach v raselinistich
+### Biosfera
+
+#### Biogeografie
+- zemepisne prostorove type shi ohledne organismu
+- druhove rozsireni migrace atd atd 
+
+
+#### Biologie
+- proste biologie idk nic extraa
