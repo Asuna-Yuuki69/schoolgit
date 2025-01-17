@@ -14,4 +14,6 @@
 - $0 \ az \ 90$ smaci
 - $90 \ az \ 180$ nesmaci
 - take se aplikuji [[kapilarni jevy]]
-- 
+- kazda soustava chce byt ve stavu, kdy ma nejmensi energii
+	- bublinky ve wireframe tvarech se vetsinou spoji uprostred a udelaji nejmensi povrch
+	- bublinka v bublifuku udrzi provazek na sobe frfr 
