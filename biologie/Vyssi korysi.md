@@ -5,3 +5,5 @@
 - svlekaji krunyr, rizeno hormonem **ekdyson** v dobe svlekani je rak ukryty a neprijima potravu
 - rakuvky jsou utvary v zaludku - vapenate latky pro inkrustaci krunyre
 - bezbarva kapalina misto krve
+- **gonochoriste s primym vyvojem**
+	- u samice vajicka lepena na zadek, kde se do nasledujiciho roku vyvinou mladata

@@ -1,0 +1,13 @@
+- revendre - preprodat
+	- je revends
+	- il revend
+	- j'ai revendu
+- donner a la charite 
+- offrir
+- echanger swap
+- emprunter (vypujcit)
+- preter (pujcit)
+- recycler x jetter
+- garder (nechat si/schovavat neco)
+- offrir
+- abimer - poskodit
