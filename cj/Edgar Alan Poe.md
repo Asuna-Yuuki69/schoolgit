@@ -1,0 +1,5 @@
+- Americky spisovatel
+- prozaik
+- literarni teoretik
+- autor fantastickych pribehu
+- zakladatel detektivky a hororu

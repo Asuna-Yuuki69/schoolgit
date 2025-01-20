@@ -10,3 +10,6 @@
 - zaikat sam sebou
 - pro spolecnost neuzitecny, zbytecny clovek
 - nema zadny smysl zivota, ackoliv je chytry nadejny slechtic
+#### Maskarada
+- dilo se toci kolem sperku, ktery Baronka najde behem balu.
+	- ona ten sperk podelala a maskovana ho darovala nejakemu capkovi, ktereho milovala
