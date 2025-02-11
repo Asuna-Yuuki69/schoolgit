@@ -1,0 +1,9 @@
+- cesky spisovatel, ktery ale nebyl pochopen
+- zakladatel moderni ceske poezie
+- jediny cesky romanticky basnik
+- **Maj**
+	- puvodne melo slavit majovou prirodu a krasu, pozdeji prerostlo ve filozoficky shit
+	- odehrava se v okoli Bezdezu a Doks, take v nejakem vezeni
+	- postavy jsou Vilem, Jarmmila, farar, matka a Hynek (sam autor se tam vyobrazuje)
+	- lyricko-epicka basen
+	- 
