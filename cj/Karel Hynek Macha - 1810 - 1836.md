@@ -1,9 +1,30 @@
 - cesky spisovatel, ktery ale nebyl pochopen
 - zakladatel moderni ceske poezie
 - jediny cesky romanticky basnik
+- rad cestoval a pesky dosel aj do Italie
+- narozen v Praze - pote se prestehoval do chudinske ctvrti
+- doma mluvil nemecky
+- studoval gymnazium a maloval
+- vystudoval prava, takze byl docela chytry sigma
+- byl psychicky vyderac a zarlivec
+- zarlil na Tyla
+- mel syna Ludvika
+- zemrel na choleru a byl pochovan v Litomericich
 - **Maj**
+	- je actually postaveno na realnem pribehu, ktery nekde slysel
 	- puvodne melo slavit majovou prirodu a krasu, pozdeji prerostlo ve filozoficky shit
 	- odehrava se v okoli Bezdezu a Doks, take v nejakem vezeni
 	- postavy jsou Vilem, Jarmmila, farar, matka a Hynek (sam autor se tam vyobrazuje)
 	- lyricko-epicka basen
-	- 
+		- sklada se z. predzpevu, ctyr dejstvi a ma dve mezihry
+	- jambicky vers
+		- typicky pro zapadni poezii, docela tezky na psani 
+	- rymy jsou stridave, obkrocne a sdruzene
+	- dilo acc resi problem tehdejsi spolecnosti a touhy cloveka po svobode a lasce
+	- **1. zpev**
+		- Jarmila ceka na VIlema u jezera
+	- **2. zpev**
+		- odehrava se ve vezeni 
+		- vilem yappuje o svem zivote
+		- po vyhnani otcem z domova se stal vudcem loupezniku
+		- vsechno to rika svemu zalarnikovi, ktery se az do konce zivota neusmeje 
