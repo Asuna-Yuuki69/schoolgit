@@ -28,3 +28,7 @@
 		- vilem yappuje o svem zivote
 		- po vyhnani otcem z domova se stal vudcem loupezniku
 		- vsechno to rika svemu zalarnikovi, ktery se az do konce zivota neusmeje 
+		- vilem se postupne smiruje s nadchazejici smrti 
+	- **3. zpev**
+		- ted ma zemrit, ale kontrastne je priroda okolo nej velmi krasna
+		- nechce se mu umrit bcs je tak hezky 
