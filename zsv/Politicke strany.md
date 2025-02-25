@@ -20,3 +20,9 @@
 - trojkoalice
 - slibuji zlepseni dopravy, lepsi finance atd
 - chteji snizit zavislost na rusku
+## Pirati
+- inspirovan skandinavskymi piratskymi stranami
+- socialne liberalni
+- progresivni
+- proti motoristum a rasismu
+- snazi se o zelenou energii, zjednoduseni veci a digitalizaci skoro vseho

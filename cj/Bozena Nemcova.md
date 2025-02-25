@@ -1,0 +1,7 @@
+- 4.2. 1820 Viden - 21.1. 1862 Praha
+- dcera kociho Jana Pankla a sluzky Terezie Novotne
+- silny vztah k babicce Magdalene Novotne
+- v 17 letech si vzala Josefa Nemce
+	- byl dvakrat starsi
+	- byl urednik financni straze
+	- 
