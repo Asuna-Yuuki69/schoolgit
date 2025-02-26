@@ -1,0 +1,5 @@
+- zpusob zpracovani dat -> databaze, uschova dat, intepretace, cisteni dat
+- sbirani dat -> cookies, formulare, analyticka data a pokusy
+- transformace dat -> zmena formatu, nejake interpretace inputu -> **jakakoliv zmena**
+- analyza dat -> zpracovani dat, zjisteni vyskytu na zaklade inputu, zjistovani chyb atd
+- prenos imformaci -> ethernet mail atdatd, taky je tam kodovani a sifrovani
