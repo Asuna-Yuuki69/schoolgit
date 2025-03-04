@@ -32,3 +32,6 @@
 		- Elska mela domluveny snatek s nejakym spravcem, ktereho ani nechtela
 		- Elska zdedi majetek po tete pod podminkou, ze si vezme muze, ktereho opravdu miluje
 - Barbora se nakonec vda za myslivce, ktery se ji libil
+#### V zamku a podzamci
+- zamek reprezentuje bohata snobska hrabenka
+- podzamci reprezentuje rodina chudeho krejciho, ktery ma 5 deti, ale je to rodina s dobrym srdcem
