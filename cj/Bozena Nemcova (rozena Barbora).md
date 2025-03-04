@@ -14,6 +14,7 @@
 - Domazlicko - pohadky, narodopisne clanky a obrazky ze zivota spolecnosti
 - napsala basen Zenam Ceskym
 - zajimala se o lidovou spolecnost
+- psala ve stylu utopickeho socialismu
 #### Babicka
 - obrazy z venkovskeho zivota
 - chtela ukazat zivot prostych lidi
@@ -23,3 +24,11 @@
 - #### dej 
 	- 1.-6. kapitola je info o babicce -> stripky ze zivota, vzpominky a popis bezneho dne ve Starem belidle
 	- 7.-12. kapitola - dej se z babicky presune na popis zvyku a tradic na vesnici
+
+#### Diva Bara
+- nadstandartni divka, delala veci co normalni divky nedelaly
+	- bavila se s muzi, hrala hry, ktere holky v te dobe nehraly
+	- neverila na povidacky a povesti -> lidi ve vesnici ji moc nemeli radi -> mela jedinou kamaradku Elsku
+		- Elska mela domluveny snatek s nejakym spravcem, ktereho ani nechtela
+		- Elska zdedi majetek po tete pod podminkou, ze si vezme muze, ktereho opravdu miluje
+- Barbora se nakonec vda za myslivce, ktery se ji libil
