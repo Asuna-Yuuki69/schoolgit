@@ -34,4 +34,6 @@
 - Barbora se nakonec vda za myslivce, ktery se ji libil
 #### V zamku a podzamci
 - zamek reprezentuje bohata snobska hrabenka
+	- hrabenka se zabyva svym psem
+	- ma lekare, ktery ji premlouva, aby pomahala chudym, starala se o sve poddane a stavela nemocnice
 - podzamci reprezentuje rodina chudeho krejciho, ktery ma 5 deti, ale je to rodina s dobrym srdcem

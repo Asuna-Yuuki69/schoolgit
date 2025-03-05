@@ -22,3 +22,8 @@ napriklad
 
 #### elementarni el. naboj
 q = +- $1,602*10^{-19}C \to q_{e},q_{p}$ 
+
+#### Elektromagneticke pole
+$F_{c}=\frac{\frac{1}{4\pi \epsilon_{o} \epsilon_{r}}*Q_{1}Q_{2}}{r^2}$
+epsilon 0 - permitivita vakua = 0.85* 10^-12
+k=9* 10^9
