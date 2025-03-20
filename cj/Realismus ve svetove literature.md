@@ -1,0 +1,4 @@
+- rozvoj prirodnich a technickych ved
+- vliv pozitivismu - Auguste Comte "Skutecne je to, co lze dokazat smysly, tedy pozitivne"
+- prosazeni exaktniho mysleni
+- literatura je chapana jako vedecka analyza spolecnosti

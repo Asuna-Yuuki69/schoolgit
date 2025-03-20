@@ -1,0 +1,1 @@
+- sidlo - misto, kde lide ziji, byli a pracuji

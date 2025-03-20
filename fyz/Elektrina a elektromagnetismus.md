@@ -29,3 +29,26 @@ $E =\frac{F}{Q}=\frac{\frac{k}{\epsilon_{r}}*Q}{r^2}$ - intenzita
 $\phi =\frac{E_{p}}{Q}=\frac{Fr}{Q}$ - potencial
 epsilon 0 - permitivita vakua = 0.85* 10^-12
 k=9* 10^9
+
+#### potencial
+- potencial 1V
+- napeti je definovano jako rozdil potencialu dvou ruznych mist 
+$F=QE$
+$\phi=\frac{E_{p}}{Q}=\frac{Fa}{Q}=\frac{\cancel{Q}Ed}{\cancel{Q}}$
+#### Rovnomerne rozlozeny naboj
+$\sigma=\frac{Q}{S}\to \frac{c}{m^2}$
+rovnomerne rozlozeny naboj - koule
+kdyz mam valec se spickou na konci tak se naboj nahromadi na spicce (nejmensi je naboj v dutinach)
+
+#### Kondenzator
+- hromadeni naboje
+- deskovy kondenzator - dve poklicky k sobe udelaji kondenzator
+- kapacita se meri ve faradech
+- mezi Q+ a Q- je dielektrikum - izolant, ktery neni ale vakuum
+- $C=\epsilon \frac{S}{d}$
+- $Q=UC$
+- pri paralelnim zapojeni se scita kapacita 
+	- $C=C_{1}+C_{2}$
+- pri seriovem zapojeni se zmensi kapacita
+	- $C=(\frac{1}{C_{1}}+\frac{1}{C_{2}})^{-1}$
+[![Types of Capacitor - GeeksforGeeks|450](https://media.geeksforgeeks.org/wp-content/uploads/20240719002516/Capacitor.png)
