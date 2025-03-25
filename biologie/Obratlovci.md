@@ -1,0 +1,29 @@
+### Paryby
+- rybovite telo, shora zplostele
+- ploutve 
+	- parove
+		- brisni, prisni
+	- neparove
+		- ocasni, hrbetni, ritni
+- kostra
+	- chorda zachovana, ale prostoupena neuplnymi tely obratlu
+	- chrupavcite kosti s obsahem vapniku
+	- lebka je do stran rozsirena (vzdalene oci)
+	- lebka protazena vepredu - rosturum
+- povrch
+	- vicevrstvena epidermis, plakoidni supiny, orientovany jednim smerem, ze skary
+	- v ustech jsou plakoidni supiny potazeny sklovinou - zuby
+- maji mnoho generaci
+- #### TS
+	- usta jsou pricna sterbina pod rostrem, ozubene celisti
+	- svalnaty hltan - filtrace potravy
+	- jicen, zaludek, streva se spiralni rasou ->> kloaka
+	- **jatra** - 10% hmotnosti, zasobarna tuku a hydrostaticky organ
+- #### DS
+	- 5 paru zaber, hltan nasava vodu s kyslikem k zabram
+- #### CS
+	- srdce v osrdecniku, prochazi jen odkyslicena krev, v krvi vysoky obsah ky. mocove -> vyrovnani osmotickeho tlaku morske vody
+- #### VS
+	- parove prvoledviny podel patee, maji spolecny vyvod s pohlavnimi organy -> **maji kloaku**
+- #### NS
+	- mozek ma 5 oddilu
