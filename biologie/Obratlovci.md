@@ -27,3 +27,34 @@
 	- parove prvoledviny podel patee, maji spolecny vyvod s pohlavnimi organy -> **maji kloaku**
 - #### NS
 	- mozek ma 5 oddilu
+- #### Smysly
+	- nozdry - vyborny cih, proudovy organ
+	- chut
+	- oci jsou daleko od sebe -> spatne vidi nablizko ale skvele periferni videni 
+	- lorenziho ampule - registruje elektricke podnety (svalove pohyby) koristi 
+- #### RS
+	- gonochoriste, samci kopulacni organ na brisni ploutvi 
+	- vnitrni oplozeni - parove pohlavni organy
+	- vejcorodost, zivorodost
+	- primy vyvoj a mladata maji zloutkovy vak - prvni zdroj potravy nez se nauci sami jist
+- #### EKO
+	- teple more, ale nekteri jsou kosmopolitni, dravci, planktonofagove
+### Rejnoci 
+- ploche telo
+- ploutve
+	- parove - ploutevni lem
+	- neparove - zakrnuji, obcas nekdy protazene
+- ziji u dna
+- na spodni strane je 5 paru zabernich sterbin, cichove jamky, usta
+- #### zastupci
+	- parejnok elektricky - staticka elektrina vyboje 300V
+	- Trnucha obecna - trn s jedem 
+	- Manta - velkej rejnok
+### Chimery 
+- hloubky 100 - 500m 
+- protahle telo a bicovity ocas
+- velke prsni ploutve, plakoidni supiny
+- 4 zaberni sterbiny
+- nemaji strevni rasu, ani kloaku
+- pohlavni dimorfismus
+- samec ma na hlave vyrustek aby se mohl prichytit k samici
