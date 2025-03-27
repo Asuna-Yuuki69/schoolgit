@@ -52,3 +52,11 @@ kdyz mam valec se spickou na konci tak se naboj nahromadi na spicce (nejmensi je
 - pri seriovem zapojeni se zmensi kapacita
 	- $C=(\frac{1}{C_{1}}+\frac{1}{C_{2}})^{-1}$
 [![Types of Capacitor - GeeksforGeeks|450](https://media.geeksforgeeks.org/wp-content/uploads/20240719002516/Capacitor.png)
+
+#### Elektricky proud 
+Usmerneny pohyb volnych nosicu elektrickeho naboje (napr elektrony, ionty, diry
+V kovech je elektronovy plyn
+- elektrostatika x proud 
+	- proud se hybe a prenasi elektrinu - jiskra -> preskoci z jednoho na druhe
+	- elektrostatika je staticky naboj, ktery se nijak nehybe nebo se preskupuje pouze v jednom telese
+- mnozstvi elektrickeho naboje, ktery prurezem elektrickeho vodice 
