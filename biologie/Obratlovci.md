@@ -58,3 +58,102 @@
 - nemaji strevni rasu, ani kloaku
 - pohlavni dimorfismus
 - samec ma na hlave vyrustek aby se mohl prichytit k samici
+### Ryby
+- nepocetnejsi obratlovci 24K druhu
+- primarne sladkovodni, sekundare morske
+#### Telo
+- protahle, ze stran zplostele = hydrodynamicky tvar, zlaky v pokozce vylucuji sliz - smooth plavani a snizuje treni
+	- take brani bobtnani pokozky
+	- ochrana pred patogeny
+	- chrani pred vysychanim
+#### Povrch tela
+- pokozka mnohovrstevna
+- skara produkuje supiny - rostou cely zivot, dle nich se da urcit stari
+	- cykloidni supiny - kapr
+	- ktenoidni - okoun
+	- ganoidni - jeseter
+#### Kostra
+- prevaha kostni tkane nad chrupavkou, kosti dermalni (krele), vznik osifikaci chrupavek
+- **pater** - z obratlu, chorda potlacena
+- **obratle** - dlouhe vybezky, napojeni zeber
+- **paprsky** - podpora ploutvi
+#### Ploutve
+- parove
+	- prsni, brisni, tukova ploutvicka
+- neparove
+	- hrbetni ritni ocasni
+#### Svalovina
+- podelni bocni sval
+#### TS
+- usta, ustni otvor, vicegeneracni zuby, hltan, jicen, zaludek
+- streva rit, velka jatra, slinivka, zlucnik
+#### DS
+- zabry po stranach tela za hlavou v zabernich dutinach, chraneny skrelemy
+- usty voda do zaber -> skrele zavrene
+- usta zavrena -> voda ven pres otevrene skrele
+- kyslik vstrebavan pres zaberni lupeny primo do krve
+#### Plynovy mechyr
+- hydrostaticky organ, reguluje hustotu tela v zavislosit na tlaku vody v ruznych hloubkah
+#### CS
+- uzavrena, krev obsah hemoglobinu, neozni srdce
+#### VS
+- parove ledviny
+#### NS
+- mozek, 5 casti, micha, periferni n.
+#### Smysly
+- postranni cara
+- vnejsi nozdry, chutove pupeny na hlave a na tele, hmatove vousky, postranni cara tvorena ze smyslovych bunek
+- sluch - vnitrni ucho uzavrene, stredni a vnejsi ucho nemaji
+- zrak - kulovita cocka, plocha rohovka, barevne videni, nemaji ocni vicka a slzni zlazy
+#### Rozmnozovani
+- gonochoriste, oplozein vnejsi = treni
+- vyvoj primy, mlici - spermie, jikry - vajicka
+- trdliste - mista treni, pludek, poter, dospelec
+#### Druhy ryb
+- paprskoploutvi
+	- vetsina dnesni ryb, dva nadrady
+		- chrupavciti
+			- starobyla skupina, ktera prebrala vnektere znaky paryb (ocas, spodni usta)
+			- jeseter
+				- rostrum, spodni usta, chorda
+				- chrupavcita kostra
+				- podobny zralokovi
+				- lyse telo a nahore ganoidni supiny
+				- **vyskyt** -> more na severni polokouli, trou se v rekach a putuji mnoho km
+				- **zastupci**
+					- Vyza velka
+					- Jeseter velky
+					- Jeseter maly
+		- kostnati
+			- 90% dnesnich ryb
+			- ve vsech typech vod
+				- **Sledoviti**
+					- hospodarsky vyznamne
+					- zivi se planktonem
+					- ziji v hejnech
+					- sled obecny, sprot obecny
+					- sardinka obecna, okoun, kapr
+				- **Lososoviti**
+					- tukova ploutvicka
+					- morsti
+					- sladkovodni, horni toky rek, ledovcova jezera
+					- losos obecny, lipan podhorni
+		- nozdrati
+			- cichove jamky jsou propojeny s ustni dutinou
+			- **Lalokouploutvi**
+				- fosilni zastupci v devonu ve sladkych vodach
+				- latimerie podivna
+			- **Dvojdysni**
+				- v tropech ve vysychavych vodach
+				- chorda cely zivot, soumerna ocasni ploutev
+				- neparove ploutve tvori ploutevni lem
+				- dychaji zabrami a plicnimi vaky
+#### Obojzivelni
+
+
+
+#### Plazi
+- perm - oteplovani a vysusovani
+- druhohory - nejveetsi rozkvet 
+	- jura
+	- vyhynuti dinosauru 

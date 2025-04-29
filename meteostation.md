@@ -1,0 +1,7 @@
+- [x] Temperature and humidity readout
+- [x] Wind speed readout
+- [ ] Wind direction readout
+	- [ ] correct resistor
+- [ ] Value buffer in case of connection loss
+- [ ] Memory management
+- [x] mqtt publishing

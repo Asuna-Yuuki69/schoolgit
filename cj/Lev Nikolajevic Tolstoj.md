@@ -1,0 +1,10 @@
+- rusky spisovatel a filozof, predstavitel **realismu**
+- pochazel ze slechtickeho rodu, ale oba rodice mu zemreli kdyz byl jeste chlapec
+- jeho zivot je spjat s mistem Jasna Poljana (jeho rodinne sidlo)
+- Car ho pokladal za revolucionare
+- 1851 sel bojovat dobrovolne do krymske valky
+- po navratu otevrel vlastni skolu a vyucoval v ni
+- ackoliv byl vojakem tak si stal za tim, ze je spatne protivit se zlu nasilim a mel celkove pacifisticke myslenky
+- car ho pokladal za revolucionare a byl vloucen z cirkve jako kacit
+- po neshodach s rodinou ji opousti a bez rozlouceni je leavne
+- na ceste dostal rymu a v Astopove zemrel

@@ -1,0 +1,14 @@
+- malo ryb se papka
+- skot - mleko, maso, kuze
+	- dojnice - krava na mleko
+	- musi mit telata
+- ustajeny chov
+- **brav** - ovce, kozy, vepri
+- **drubez**
+	- nosnice - pro vejce
+	- masnice - maso
+	- v drubezarnach se v noci sviti - rychle nabirani svalu
+	- brojleri - kurata 4-5 kg (vyslechtene na maso)
+- kone - smycce a veci z jejich vlasu
+- vcelicky
+	- med (pastovany nekrystalizuje)

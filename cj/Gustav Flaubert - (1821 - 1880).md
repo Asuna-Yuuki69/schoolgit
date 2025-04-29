@@ -1,0 +1,23 @@
+- francouzsky autor, psal realismus
+- pochazel z lekarske rodiny
+- studoval prava, ale ze zdravotnich duvodu nedokoncil
+- pohodlny zivot na venkovskm sidle
+- sva dila podrobne prepracovaval
+- mistr ve zobrazeni lidskych vasni a citovych vztahu
+- dilo bylo skandalni
+	- obvinen z ohrozeni verejne mravnosti
+	- nejvic se na tom obvineni podilelo dilo **Pani Bovaryova**
+	- kvuli dobremu obhajci byla obzaloba zrusena
+
+### Pani Bovaryova
+- podtitul **Mravy francouzskeho venkova**
+- roman o 3 castech
+- inspirovano skutecnymi udalostmi
+- analyza rozpadu romanticke iluze na pozadi odlidstenych vztahu mestanske spolecnosti
+- mc. hrdinka Ema
+	- dcera bohateho sedlaka
+	- trpi v zajeti mestanskeho prostredi
+	- touzi po romantice a hleda smysl zivota
+	- utika pred banalitou sveho zivota k milencum, ale deziluze ji nici
+	- Ema po nekolika nevydarenych romancich a financnim krachu podleha depresi a otravi se 
+	- Karel Bovary (manzel), je taktez psychicky zdecimovany na konci romanu umre
