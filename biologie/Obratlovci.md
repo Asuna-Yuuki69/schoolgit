@@ -157,3 +157,37 @@
 - druhohory - nejveetsi rozkvet 
 	- jura
 	- vyhynuti dinosauru 
+- puvodne suchozemsti, nektere druhy vodni
+#### obecne znaky
+- poiklotermie - promenliva teplota tela
+- plodove obaly (amnion, chorion, allantois) a vejecne obaly davaji nezavislot na vodnim prosredi, vodni prostredi je nahrazenou plodovou vodou
+- povrch pokozky kryt supinami (hadi), krunyrem (zelvy), rohovotymi supinami (krokodyl)
+- stara a nova pokozka jsou oddeleny tekutinou, ktera umoznuje svlekani stare pokozky v celku nebo po castech
+##### kostra
+- lebka pohyblive spojena s pateri (nosic, cepovec)
+- pater - krcni (8), hrudni, bederni(22), krizova, ocasni
+	- hrudni kos - hrudni kost, zebra napojujici se na pater, umoznuje dychani (hadi nemaji hrudni kost)
+	- koncetiny pripojene ke kostre pletencem lopatkovym a panevnim
+#### svalstvo
+- rozlisene na svalove skupiny, mezizeberni svalstvo, podtlak v plicich
+#### travici soustava
+- ustni dutina
+- rozeklany jazyk
+- Jacobsonuv organ
+- chrup
+	- homodontni - vsechny zuby jsou stejne
+	- heterodontni - rozlisitelne zubni typy (hadi, krokodyli)
+	- mnohogeneracni
+- hltan
+- jicen
+- svalnaty zaludek
+- rozlisena streva
+- slepe strevo
+- kloaka
+- slinivka
+- jatra
+- zlucnik
+#### telni typy
+- jesterkovity (protahle telo, koncetiny, ocas)
+- hadovity (protahle telo, bez koncetin)
+- zelvovity (zplostele telo kryte krunyrem)

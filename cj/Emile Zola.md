@@ -1,0 +1,4 @@
+- celni predstavitel naturalismu
+- prozaik, literarni teoretik a kritik
+- Zola veril v determinaci cloveka dedicnymi vlivy a prostredim, ve kterem zije
+- jeho literarni tvorba se priblizuje pozitivistickemu zpusobu chapani sveta - podrobny pruzkum urciteho socialniho prostredi
