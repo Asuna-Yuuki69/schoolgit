@@ -1,0 +1,12 @@
+- 6. skupina
+- tvrdy, stribrity kov
+- na vzduchu staly
+- pasivuje se koncentrovanou $HNO_{3}$
+- reakce s kyslike, s halogeny a sirou
+- amorfni
+- reaktivita klesa s rostoucim Z
+- **Ziskavani chromu**
+	- $Cr_{2}O_{3}*FeO$ - chromit
+	- $PbCrO_{4}$
+#### Vyuziti
+- dichroman draselny se pouzival v detekcnich trubickach na alkohol $K_{2}Cr_{2}O_{7}$

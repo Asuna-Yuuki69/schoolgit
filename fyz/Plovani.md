@@ -1,10 +1,10 @@
 # Plovani
 
-$F_{vzt}=mg=\rho_k V_t g $ 
+$F_{vzt}=mg=\rho_k V_t g$ 
 
-$F_G=mg=\rho_t V' g $ 
+$F_G=mg=\rho_t V' g$ 
 
-$\rho_k V' g = \rho_t V_t g $
+$\rho_k V' g = \rho_t V_t g$
 
 $\frac{\rho_k}{\rho_T} = \frac{V_T}{V'}=\frac{10}{9}$
 

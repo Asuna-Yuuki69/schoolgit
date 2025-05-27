@@ -1,0 +1,4 @@
+- ustricovy pirat
+- lovec tulenu
+- zlatokop na Klondike
+- namorni policista

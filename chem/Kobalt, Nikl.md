@@ -1,0 +1,15 @@
+- bily kov
+- dobre vede elektricky proud
+- paramagneticky kov (vtahovany do magnetickeho pole)
+- Co - leskly, tvrdy, kujny kov, nekoroduje
+- ziskava se z CoAsS - kobaltin
+- prazeni sulfidickych rud, redukce oxidu
+- $2NiS+3O_{2}\to 2NiO+2SO_{2}$
+- $NiO+C\to Ni+CO$
+#### Pouziti
+- prisada do legovanych a zaruvdornych oceli
+- radioaktivni - zdroj gamma zaerni - lekarstvi a technika
+- Slitiny - alpaka, konstantan
+- katalyzaor pri ztuzovani tuku (jemne rozptyleny)
+- pasivace kovu - ochrana proti korozi (nikl)
+- NiCd clanky 

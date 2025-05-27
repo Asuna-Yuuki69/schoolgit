@@ -79,9 +79,9 @@
 - **paprsky** - podpora ploutvi
 #### Ploutve
 - parove
-	- prsni, brisni, tukova ploutvicka
+	- prsni, brisni
 - neparove
-	- hrbetni ritni ocasni
+	- hrbetni ritni ocasni, tukova ploutvicka
 #### Svalovina
 - podelni bocni sval
 #### TS
@@ -191,3 +191,81 @@
 - jesterkovity (protahle telo, koncetiny, ocas)
 - hadovity (protahle telo, bez koncetin)
 - zelvovity (zplostele telo kryte krunyrem)
+#### DS
+- vnejsi parove nozdry
+- nosni dutina
+- skorepina
+- vnitrni nozdry vedou vzduch do hrtanu, prudusniici, prudusku, parove plice, zraseny povrch, hadi jen jedna plice
+#### CS
+- srdce 2 predsine, 1 komora, neuplna prepazka - miseni krve, poprve vratnicovy (jaterni obeh)
+#### NS
+- mozek, micha, doplnkove centrum v krku
+#### VS
+- prave ledviny, parove, mocovody, mocovy mechyr, mocova trubice do kloaky
+#### Smysly
+- jacobsonuv organ -> receptor chemickych podnetu v jamce horniho patra
+- **Sluch** - stredni, vnitrni ucho, bubinek zanoren pod kuzi (naznak vnejsiho oka)
+- cichove ustroji v horni casti nosni dutiny
+- **Zrak** - oko 3 vicka (horni, dolni, mzurka), hadi, gekoni srostla vicka, akomodace cocky rasnatym telesem, rohovka, ocni bulvy se mohou vlivem okohybnych svalu otacet (chameleon, jesterky)
+#### RS
+- gonochoriste, pohlavni dimorfismus (jine zbarveni tela), vyvoj primy, samci maji vychlipitelnou cast kloaky
+- vejcorodost - ovoparie
+- vojcozivorodost - ovoviviparie
+- samice vajicka zahriva ci nikoliv
+- nezahrivana vajicka se dlouho vyviji
+	- 2 mesice (zelvy)
+	- 12 mesicu (haterie)
+- u vejcorodych cely vyvoj probiha na sousi
+- zarodek je kryt vajecnymi/zarodecnymi obaly
+	- **zarodecne obaly**
+		- serosa - vnejsi obal
+		- amnion - vnitrni obal, vacek s tekutinou
+		- allantois - stredni obal, vychlipuje se posledni
+#### ekologie
+- rust zachovan cely zivot
+- dospelost po 4-5 letech, u zelv a krokodylu po 10 letech (doziti okolo 30)
+- zelva sloni az 200 let
+- samice jsou kvuli kladeni vajec ochotny migrovat tisice km 
+- hibernace = stadium strnulsti, v chladnych mesicich vsechny zivotni funkce na minimum
+#### Zastupci
+**Haterie**
+- haterie novozelandska
+- zivouci fosilie (70cm)
+- endemit na Novem Zelandu
+- starobyle znaky: obratle maji zachovane zbytky chordy, krom hrudnich zeber maji krcni a brisni zebra, ucho bez bubinku, maji 3. temenni oko, ale nezname jeho funkci
+- nocni zivocichove, obyvaji nory burnaku a jejich trus vyuzivaji k lakani hmyzu
+- papkaji hmyz, drobne clenovce a mekkyse
+- dozivaji se 100 let
+**Zelvy**
+
+
+
+#### Krokodyli
+- predkove - thecodonti
+- reky tropu, subtropu (obojzivelny zpusob zivota)
+- **telo** zhora zplostele, kylovity ocas, svalnaty
+	- koncetiny - kratke silne a vyklinene ze stran, prsty maji plovaci blany
+	- kostene patro, branice, 4dilne srdce, alveoly (nekoukaji mu zuby kdyz ma otevrenou pusu)
+- primitivni znak - brisni zebra
+- **RS**
+	- vejcorodi, vejce kladou na sous do jamy a zahrabavaji ocasem, mladata se lihnou po 7 - 8 tydnech
+
+#### Supinati
+- nejpocetnejsi skupina
+- pokrytim tela jsou supiny
+- svrchni vrstva pokozky
+
+#### Hadi 
+- nejmladsi skupina plazu, nevetsi rozmach ve tretihorach, pohyb plazenim, ztrata koncetin a plazi se po zemi, po stromech a hodne druhu umi aj velice dobre plavat
+- telo
+	- hlava
+	- trup
+	- ocas
+	- nerozlisene obratle
+	- na ne napojena pohybliva zebra
+- potravu polykaji celou
+- 1/5 hadu jsou jedovati - v horni celisti jedove zuby (jed jde do obeti jedovou zlazou uprostred zubu)
+- zastupci 
+	- anakonda velka
+	- krajta tygrovana   
+	- Taipan velky - **nejjedovatejsi had**d
