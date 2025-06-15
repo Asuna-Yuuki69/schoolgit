@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"760a98c2be0b2cfe","x":-520,"y":21,"width":250,"height":60,"color":"4","type":"text","text":"Primarni"},
+		{"id":"edcc95c22e0c31c2","x":260,"y":21,"width":250,"height":60,"color":"6","type":"text","text":"Sekundarni"},
+		{"id":"e7909220751ebced","x":-120,"y":21,"width":250,"height":60,"color":"3","type":"text","text":"Soudni"},
+		{"id":"08e419c972b2dcc9","x":-520,"y":-180,"width":250,"height":50,"type":"text","text":"LZP Evropske unie"},
+		{"id":"9cb7dcf312ce5cd2","x":-840,"y":-380,"width":250,"height":124,"type":"text","text":"Ochrana spotrebitelu, prava zamestnancu, rovnost pred zakonem, pravo na soud"},
+		{"id":"9873fb2238b71de1","x":-195,"y":-397,"width":250,"height":158,"type":"text","text":"osobni svoboda a bezpecnost, pravo na svobodne mysleni, svedomi a nabozenstvi a ochranu osobnich udaju"},
+		{"id":"4db64830ed6d9626","x":-100,"y":-100,"width":250,"height":50,"color":"1","type":"text","text":"Pravo Evropske unie"},
+		{"id":"b5eda1104bb1bce5","x":-840,"y":81,"width":250,"height":219,"type":"text","text":"Lisabonska smlouva - ustava evropske unie, stanovuje cile EU, jeji hodnoty institucionalni strukturu a zakladni principy subsidiarity a proporcionality, pravomoci EU a clenskych statu"},
+		{"id":"b8b866e1af5b4a62","x":-520,"y":180,"width":250,"height":60,"type":"text","text":"Mezinarodni smlouvy"},
+		{"id":"64a6a997a5abed87","x":-680,"y":331,"width":250,"height":60,"type":"text","text":"Obchod"},
+		{"id":"1d79342ab7806aa4","x":-370,"y":331,"width":250,"height":60,"type":"text","text":"Politika/spoluprace"},
+		{"id":"653141c3e64f01d5","x":-840,"y":-130,"width":250,"height":165,"type":"text","text":"Maastrichtska smlouva - smlouva o evropske unii -> menova unie \nstanovuje bezpecnostni a zahranicni politiku"}
+	],
+	"edges":[
+		{"id":"fdcb3475aea7a46d","fromNode":"4db64830ed6d9626","fromSide":"left","toNode":"760a98c2be0b2cfe","toSide":"right","color":"4"},
+		{"id":"428642f3b8252c82","fromNode":"4db64830ed6d9626","fromSide":"right","toNode":"edcc95c22e0c31c2","toSide":"left","color":"6"},
+		{"id":"e8003857ec3e6fed","fromNode":"4db64830ed6d9626","fromSide":"bottom","toNode":"e7909220751ebced","toSide":"top","color":"3"},
+		{"id":"52a1cc4b00b0704b","fromNode":"760a98c2be0b2cfe","fromSide":"left","toNode":"653141c3e64f01d5","toSide":"right","color":"4"},
+		{"id":"af9d62897c0c834a","fromNode":"760a98c2be0b2cfe","fromSide":"left","toNode":"b5eda1104bb1bce5","toSide":"right","color":"4"},
+		{"id":"1e1f34bf2af81655","fromNode":"760a98c2be0b2cfe","fromSide":"top","toNode":"08e419c972b2dcc9","toSide":"bottom","color":"4"},
+		{"id":"762f50453e777ebf","fromNode":"760a98c2be0b2cfe","fromSide":"bottom","toNode":"b8b866e1af5b4a62","toSide":"top","color":"4"},
+		{"id":"b709e98428984a74","fromNode":"08e419c972b2dcc9","fromSide":"top","toNode":"9cb7dcf312ce5cd2","toSide":"bottom","color":"4"},
+		{"id":"fcf1cce46dfa5c0f","fromNode":"08e419c972b2dcc9","fromSide":"top","toNode":"9873fb2238b71de1","toSide":"bottom","color":"4"},
+		{"id":"c9b7cbde1ec5a542","fromNode":"b8b866e1af5b4a62","fromSide":"bottom","toNode":"64a6a997a5abed87","toSide":"top","color":"4"},
+		{"id":"52f5988c0b2f3b9a","fromNode":"b8b866e1af5b4a62","fromSide":"bottom","toNode":"1d79342ab7806aa4","toSide":"top","color":"4"}
+	]
+}

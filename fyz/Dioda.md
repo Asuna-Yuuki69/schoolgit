@@ -1,0 +1,3 @@
+- PN (positive negative)
+- dokaze usmernit proud
+- pousti - a + jen z jedne strany

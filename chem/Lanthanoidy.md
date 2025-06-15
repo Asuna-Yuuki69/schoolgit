@@ -1,0 +1,11 @@
+- f-prvky
+- 14 prvku 6. periody za lanthanem
+- Ce az Lu
+- drive prvky vzacnych zemin
+- lanthanoidova kontrakce
+# Aktinoidy
+- prvky 7. periody za aktiniem
+- Transurany - v rade za uranem
+- obsazuji orbitaly 5f a 6d
+- uran a plutonium - jaderna paliva
+- uran pouzivany v jaderne energetice je $U^{238}_{92}$

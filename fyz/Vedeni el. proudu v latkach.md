@@ -1,0 +1,10 @@
+- v kovech elektrony
+- jinak nosice volneho elektrickeho naboje
+- v kapalinach ionty obou druhu
+- v plynech taky ionty - plyn musi byt ionizovany
+- rozdeleni elektricky nabite molekuly na ionty tech dvou druhu je potreba urcite napeti (princip vodivosti v kapalinach)
+- elektrolyza
+	- disociace - rozklad elektricky neutralni molekuly na ionty
+	- vratny proces
+	- katoda anoda
+	- olovene elektrody - autobaterie

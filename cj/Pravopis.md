@@ -1,0 +1,2 @@
+- nekolikanasobny podmet
+- vsuvka
