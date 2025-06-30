@@ -1,0 +1,1 @@
+## Journal of trades and thought process of entering and deciding on it
