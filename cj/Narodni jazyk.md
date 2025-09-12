@@ -1,0 +1,32 @@
+### Vypsani tvaru obecne cestiny
+- peknej - obecna cestina
+- zadecek - deminutivum
+- vedle
+- zamilovanej - obecna cestina
+- patalie ??
+- kapanek - hovorova cestina
+- jezisikriste - apostrofa
+- velky - obecna cestina
+- sed - hovorova cestina
+- druhy - obecna cestina
+- osklivy - obecna cestina
+
+- orvany - obecna cestina
+- kobylkama - hovorovost
+- preklepeme - 
+- bijaku
+- chudinsky
+- vyplazli
+- seslyho
+- staryho 
+- drepeli
+- vykopli
+- vyrizeny
+- ktery
+- fachu
+- stary 
+- somrak
+- levnym
+- kurvy
+- bezny
+- manzelsky

@@ -1,0 +1,4 @@
+- Vlastnim jmenem Alzbeta Pechova
+- Basnirka, venovala se zenskemu hnuti
+- Venovala se prekladatelske cinnosti
+- Prvni zena s doktoratem u nas
