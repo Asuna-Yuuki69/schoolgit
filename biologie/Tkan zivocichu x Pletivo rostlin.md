@@ -20,6 +20,11 @@
 ### Kosterni soustava
 - v dospelosti 206 kosti
 - na povrchu kosti je okostice
+- kosti u deti jsou mekci a hure se lamou - deti mohou padat hodne a nezlamou se
+- kosti u dospelych jsou pevnejsi, ale zas je to blby kdyz se zlomi
+### Typy kosti
+- kosti dlouhe
+- ploche kosti
 #### Okostice
 #### Hutna kost
 - hutna kost ma lamely a v nich kanalky, kde prochazi cevy a nervy

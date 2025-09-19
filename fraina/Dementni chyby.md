@@ -1,0 +1,5 @@
+- la matiere - predmet (ve skole)
+- le domaine - domena (obor)
+- le sujet - tema
+- apprendre - ucit se neco atd (naucil sem se neco - j'ai apris.....)
+- etudier - vylozene studovat
