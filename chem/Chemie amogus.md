@@ -31,3 +31,4 @@ CCO
 ## Moznosti stepeni vazb
 $A^* + B^*$ -> homolyticke
 $A^++B^-$ -> heterolyticke
+

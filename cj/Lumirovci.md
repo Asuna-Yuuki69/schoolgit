@@ -16,3 +16,7 @@
 - tato epicko-reflexivni poezie nema pevnou kompozici
 - Vrchlicky nikdy nerekl, ktere sbirky do cyklu patri
 - obvykle cca 15 sbirek
+### Noc na karlstejne
+- veselohra, ktera vyuziva znameho motivu zakazu pobytu zen na hrade Karla IV.
+- Hra se stala popularni a a ni cas v tomto smeru nezapracoval v jeji neprospech
+- odehrava se c roce 1363 na Karlstejne

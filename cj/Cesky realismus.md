@@ -1,0 +1,11 @@
+- narodnostni nesnasenlivost na nasem uzemi
+- Cesko bylo prumyslove srdce monarchie
+- 1891 jubilejni vystava 
+	- velke spory mezi cechy a nemci (nemci vystavu bojkotovali)
+- posledni 1/3 19. stol dominuje historicky roman - cestina byla zrovnopravnena a tudiz ukol obrozencu konci
+### Masarykovy skandaly
+- Rukopisy
+	- Masaryk rekl, ze rukopisy jsou pravdepodobne falesne - dostal hate af
+- hilsneriada
+	- typek mel udajne zabit zenu, ale byl souzen kvuli zidovskym motivum a Masaryk nechtel antisemitismus tak ho z toho vytahl
+- 

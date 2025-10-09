@@ -1,0 +1,11 @@
+- hassle - repeatedly annoy somebody to do something 
+- flash out - add more detail or info on something
+- doesn't hold water - not believable or convincing
+- out of kilter - not working properly as usual
+- to muddy the waters - make a simple situations more complicated 
+- quibble - argue over small unimportant details 
+- furtive - behaving suspiciously or secretively
+- alluring - attractive or exciting (appealing)
+- to flummox - confuse somebody so much that they dk what to do or say
+- hogwash - bullshit
+- propagate - rozsirit/vyrust novou kytku z kusu stare kytky
